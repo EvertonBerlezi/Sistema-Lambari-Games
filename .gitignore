@@ -7,16 +7,30 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
-node_modules
-dist
-dist-ssr
+# Dependências
+node_modules/
+
+# Builds e saídas
+dist/
+dist-ssr/
+build/
+coverage/
+
+# Variáveis de ambiente e arquivos locais
+.env
+.env.*.local
 *.local
 
-# Editor directories and files
-.vscode/*
+# VS Code (Ignora a pasta, mas mantém configurações recomendadas)
+.vscode/
 !.vscode/extensions.json
-.idea
+!.vscode/settings.json
+!.vscode/tasks.json
+
+# Outros editores e SO
+.idea/
 .DS_Store
+Thumbs.db
 *.suo
 *.ntvs*
 *.njsproj
