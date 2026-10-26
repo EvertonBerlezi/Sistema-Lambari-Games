@@ -1,16 +1,65 @@
-# React + Vite
+# Lambari Games
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Projeto com frontend em React/Vite e backend em Node.js/Express.
 
-Currently, two official plugins are available:
+## Requisitos
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- Node.js e npm instalados.
 
-## React Compiler
+## Como rodar
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Abra um terminal na pasta do projeto e instale as dependências de cada parte:
 
-## Expanding the ESLint configuration
+```bash
+cd backend
+npm install
+```
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Em outro terminal, instale as dependências do frontend:
+
+```bash
+cd frontend
+npm install
+```
+
+### Iniciar o backend
+
+No terminal do backend:
+
+```bash
+npm run dev
+```
+
+O servidor inicia em `http://localhost:3000`.
+
+### Iniciar o frontend
+
+No terminal do frontend:
+
+```bash
+npm run dev
+```
+
+O Vite exibirá no terminal o endereço local do frontend (normalmente `http://localhost:5173`). Abra esse endereço no navegador.
+
+## Login de demonstração
+
+- **Email:** `admin@teste.com`
+- **Senha:** `123456`
+
+O login atual do frontend valida essas credenciais localmente. O backend também possui a rota `POST /login`, mas ainda não está integrado ao formulário do frontend. O usuário é fixo e não há banco de dados; o token retornado pelo backend é apenas fictício.
+
+## Scripts disponíveis
+
+### Frontend (`frontend/`)
+
+- `npm run dev`: inicia o servidor de desenvolvimento.
+- `npm run build`: gera a versão de produção em `frontend/dist`.
+- `npm run preview`: serve localmente a versão gerada.
+- `npm run lint`: executa o ESLint.
+
+### Backend (`backend/`)
+
+- `npm run dev`: inicia o servidor com reinicialização automática via Nodemon.
+
+O backend usa a variável `PORT` se definida; caso contrário, usa a porta `3000`.
