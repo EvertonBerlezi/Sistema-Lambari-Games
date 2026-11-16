@@ -1,0 +1,15 @@
+{
+  "name": "lambari-games",
+  "private": true,
+  "version": "2.1.0",
+  "scripts": {
+    "install:all": "npm --prefix backend ci && npm --prefix frontend ci",
+    "build": "npm --prefix frontend run build",
+    "start": "npm --prefix backend start",
+    "test": "npm --prefix backend test && npm --prefix frontend test",
+    "terminal": "npm --prefix backend run terminal"
+  },
+  "engines": {
+    "node": ">=22.13.0"
+  }
+}
