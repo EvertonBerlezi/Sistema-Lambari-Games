@@ -1,0 +1,993 @@
+{
+  "fonte": "Steam Store API",
+  "consultado_em": "2026-11-02T20:27:32.849Z",
+  "jogos": [
+    {
+      "steam_app_id": 1245620,
+      "titulo": "ELDEN RING",
+      "plataforma": "PC",
+      "genero": "RPG",
+      "distribuidora": "FromSoftware, Inc. / Bandai Namco Entertainment",
+      "descricao": "Explore um mundo de fantasia com combate desafiador, masmorras e liberdade para desenvolver seu personagem.",
+      "capa_url": "/capas/steam-1245620.jpg",
+      "fonte_url": "https://store.steampowered.com/app/1245620/",
+      "consultado_em": "2026-11-02",
+      "generos_fonte": [
+        "Ação",
+        "RPG"
+      ],
+      "metacritic": {
+        "nota": 94,
+        "url": "https://www.metacritic.com/game/pc/elden-ring?ftag=MCD-06-10aaa1f"
+      },
+      "capa_original_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1245620/library_600x900_2x.jpg"
+    },
+    {
+      "steam_app_id": 367520,
+      "titulo": "Hollow Knight",
+      "plataforma": "PC",
+      "genero": "Metroidvania",
+      "distribuidora": "Team Cherry",
+      "descricao": "Explore um reino subterrâneo em uma aventura de plataformas com exploração interligada e combates contra chefes.",
+      "capa_url": "/capas/steam-367520.jpg",
+      "fonte_url": "https://store.steampowered.com/app/367520/",
+      "consultado_em": "2026-11-02",
+      "generos_fonte": [
+        "Ação",
+        "Aventura",
+        "Indie"
+      ],
+      "metacritic": {
+        "nota": 87,
+        "url": "https://www.metacritic.com/game/pc/hollow-knight?ftag=MCD-06-10aaa1f"
+      },
+      "capa_original_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/367520/library_600x900_2x.jpg"
+    },
+    {
+      "steam_app_id": 413150,
+      "titulo": "Stardew Valley",
+      "plataforma": "PC",
+      "genero": "Simulação",
+      "distribuidora": "ConcernedApe",
+      "descricao": "Cuide de uma fazenda, pesque, explore cavernas e conheça os moradores de uma pequena comunidade rural.",
+      "capa_url": "/capas/steam-413150.jpg",
+      "fonte_url": "https://store.steampowered.com/app/413150/",
+      "consultado_em": "2026-11-02",
+      "generos_fonte": [
+        "Indie",
+        "RPG",
+        "Simulação"
+      ],
+      "metacritic": {
+        "nota": 89,
+        "url": "https://www.metacritic.com/game/pc/stardew-valley?ftag=MCD-06-10aaa1f"
+      },
+      "capa_original_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/413150/library_600x900_2x.jpg"
+    },
+    {
+      "steam_app_id": 1145360,
+      "titulo": "Hades",
+      "plataforma": "PC",
+      "genero": "Roguelike",
+      "distribuidora": "Supergiant Games",
+      "descricao": "Enfrente o submundo com armas e poderes divinos em tentativas de fuga que transformam a narrativa.",
+      "capa_url": "/capas/steam-1145360.jpg",
+      "fonte_url": "https://store.steampowered.com/app/1145360/",
+      "consultado_em": "2026-11-02",
+      "generos_fonte": [
+        "Ação",
+        "Indie",
+        "RPG"
+      ],
+      "metacritic": {
+        "nota": 93,
+        "url": "https://www.metacritic.com/game/pc/hades?ftag=MCD-06-10aaa1f"
+      },
+      "capa_original_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1145360/library_600x900_2x.jpg"
+    },
+    {
+      "steam_app_id": 105600,
+      "titulo": "Terraria",
+      "plataforma": "PC",
+      "genero": "Sobrevivência",
+      "distribuidora": "Re-Logic",
+      "descricao": "Explore biomas, colete materiais, construa abrigos e enfrente criaturas em um mundo de aventura em duas dimensões.",
+      "capa_url": "/capas/steam-105600.jpg",
+      "fonte_url": "https://store.steampowered.com/app/105600/",
+      "consultado_em": "2026-11-02",
+      "generos_fonte": [
+        "Ação",
+        "Aventura",
+        "Indie",
+        "RPG"
+      ],
+      "metacritic": {
+        "nota": 83,
+        "url": "https://www.metacritic.com/game/pc/terraria?ftag=MCD-06-10aaa1f"
+      },
+      "capa_original_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/105600/library_600x900_2x.jpg"
+    },
+    {
+      "steam_app_id": 1086940,
+      "titulo": "Baldur's Gate 3",
+      "plataforma": "PC",
+      "genero": "RPG",
+      "distribuidora": "Larian Studios",
+      "descricao": "Reúna um grupo de aventureiros e tome decisões em uma jornada de fantasia com combates por turnos.",
+      "capa_url": "/capas/steam-1086940.jpg",
+      "fonte_url": "https://store.steampowered.com/app/1086940/",
+      "consultado_em": "2026-11-02",
+      "generos_fonte": [
+        "Aventura",
+        "RPG",
+        "Estratégia"
+      ],
+      "metacritic": {
+        "nota": 96,
+        "url": "https://www.metacritic.com/game/pc/baldurs-gate-3?ftag=MCD-06-10aaa1f"
+      },
+      "capa_original_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1086940/library_600x900_2x.jpg"
+    },
+    {
+      "steam_app_id": 504230,
+      "titulo": "Celeste",
+      "plataforma": "PC",
+      "genero": "Plataforma",
+      "distribuidora": "Maddy Makes Games Inc.",
+      "descricao": "Supere desafios de precisão ao escalar uma montanha em uma aventura sobre persistência e descoberta pessoal.",
+      "capa_url": "/capas/steam-504230.jpg",
+      "fonte_url": "https://store.steampowered.com/app/504230/",
+      "consultado_em": "2026-11-02",
+      "generos_fonte": [
+        "Ação",
+        "Aventura",
+        "Indie"
+      ],
+      "metacritic": {
+        "nota": 88,
+        "url": "https://www.metacritic.com/game/pc/celeste?ftag=MCD-06-10aaa1f"
+      },
+      "capa_original_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/504230/library_600x900_2x.jpg"
+    },
+    {
+      "steam_app_id": 588650,
+      "titulo": "Dead Cells",
+      "plataforma": "PC",
+      "genero": "Roguelike",
+      "distribuidora": "Motion Twin",
+      "descricao": "Atravesse cenários interligados, combine equipamentos e enfrente inimigos em uma aventura de ação com partidas renovadas.",
+      "capa_url": "/capas/steam-588650.jpg",
+      "fonte_url": "https://store.steampowered.com/app/588650/",
+      "consultado_em": "2026-11-02",
+      "generos_fonte": [
+        "Ação",
+        "Aventura",
+        "Indie"
+      ],
+      "metacritic": {
+        "nota": 89,
+        "url": "https://www.metacritic.com/game/pc/dead-cells?ftag=MCD-06-10aaa1f"
+      },
+      "capa_original_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/588650/library_600x900_2x.jpg"
+    },
+    {
+      "steam_app_id": 292030,
+      "titulo": "The Witcher 3: Wild Hunt — Remastered",
+      "plataforma": "PC",
+      "genero": "RPG",
+      "distribuidora": "CD PROJEKT RED",
+      "descricao": "Acompanhe um caçador de monstros em uma jornada de fantasia marcada por contratos, investigação e escolhas.",
+      "capa_url": "/capas/steam-292030.jpg",
+      "fonte_url": "https://store.steampowered.com/app/292030/",
+      "consultado_em": "2026-11-02",
+      "generos_fonte": [
+        "RPG"
+      ],
+      "metacritic": {
+        "nota": 93,
+        "url": "https://www.metacritic.com/game/pc/the-witcher-3-wild-hunt?ftag=MCD-06-10aaa1f"
+      },
+      "capa_original_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/292030/library_600x900_2x.jpg"
+    },
+    {
+      "steam_app_id": 1091500,
+      "titulo": "Cyberpunk 2077",
+      "plataforma": "PC",
+      "genero": "RPG",
+      "distribuidora": "CD PROJEKT RED",
+      "descricao": "Explore uma metrópole futurista, personalize habilidades e participe de conflitos entre mercenários e corporações.",
+      "capa_url": "/capas/steam-1091500.jpg",
+      "fonte_url": "https://store.steampowered.com/app/1091500/",
+      "consultado_em": "2026-11-02",
+      "generos_fonte": [
+        "RPG"
+      ],
+      "metacritic": {
+        "nota": 86,
+        "url": "https://www.metacritic.com/game/pc/cyberpunk-2077?ftag=MCD-06-10aaa1f"
+      },
+      "capa_original_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1091500/library_600x900_2x.jpg"
+    },
+    {
+      "steam_app_id": 1174180,
+      "titulo": "Red Dead Redemption 2",
+      "plataforma": "PC",
+      "genero": "Ação e aventura",
+      "distribuidora": "Rockstar Games",
+      "descricao": "Acompanhe uma gangue de foras da lei em uma aventura de mundo aberto ambientada no oeste americano.",
+      "capa_url": "/capas/steam-1174180.jpg",
+      "fonte_url": "https://store.steampowered.com/app/1174180/",
+      "consultado_em": "2026-11-02",
+      "generos_fonte": [
+        "Ação",
+        "Aventura"
+      ],
+      "metacritic": {
+        "nota": 93,
+        "url": "https://www.metacritic.com/game/pc/red-dead-redemption-2?ftag=MCD-06-10aaa1f"
+      },
+      "capa_original_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1174180/library_600x900_2x.jpg"
+    },
+    {
+      "steam_app_id": 620,
+      "titulo": "Portal 2",
+      "plataforma": "PC",
+      "genero": "Quebra-cabeça",
+      "distribuidora": "Valve",
+      "descricao": "Resolva desafios espaciais usando portais, dispositivos de laboratório e raciocínio lógico, sozinho ou em cooperação.",
+      "capa_url": "/capas/steam-620.jpg",
+      "fonte_url": "https://store.steampowered.com/app/620/",
+      "consultado_em": "2026-11-02",
+      "generos_fonte": [
+        "Ação",
+        "Aventura"
+      ],
+      "metacritic": {
+        "nota": 95,
+        "url": "https://www.metacritic.com/game/pc/portal-2?ftag=MCD-06-10aaa1f"
+      },
+      "capa_original_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/620/library_600x900_2x.jpg"
+    },
+    {
+      "steam_app_id": 400,
+      "titulo": "Portal",
+      "plataforma": "PC",
+      "genero": "Quebra-cabeça",
+      "distribuidora": "Valve",
+      "descricao": "Explore câmaras de teste e use uma ferramenta de portais para resolver desafios de física e deslocamento.",
+      "capa_url": "/capas/steam-400.jpg",
+      "fonte_url": "https://store.steampowered.com/app/400/",
+      "consultado_em": "2026-11-02",
+      "generos_fonte": [
+        "Ação"
+      ],
+      "metacritic": {
+        "nota": 90,
+        "url": "https://www.metacritic.com/game/pc/portal?ftag=MCD-06-10aaa1f"
+      },
+      "capa_original_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/400/library_600x900_2x.jpg"
+    },
+    {
+      "steam_app_id": 70,
+      "titulo": "Half-Life",
+      "plataforma": "PC",
+      "genero": "Tiro",
+      "distribuidora": "Valve",
+      "descricao": "Enfrente as consequências de um experimento científico em uma aventura de ação em primeira pessoa.",
+      "capa_url": "/capas/steam-70.jpg",
+      "fonte_url": "https://store.steampowered.com/app/70/",
+      "consultado_em": "2026-11-02",
+      "generos_fonte": [
+        "Ação"
+      ],
+      "metacritic": {
+        "nota": 96,
+        "url": "https://www.metacritic.com/game/pc/half-life?ftag=MCD-06-10aaa1f"
+      },
+      "capa_original_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/70/library_600x900_2x.jpg"
+    },
+    {
+      "steam_app_id": 220,
+      "titulo": "Half-Life 2",
+      "plataforma": "PC",
+      "genero": "Tiro",
+      "distribuidora": "Valve",
+      "descricao": "Percorra uma cidade ocupada e combine combate, exploração e desafios de física em uma aventura de ficção científica.",
+      "capa_url": "/capas/steam-220.jpg",
+      "fonte_url": "https://store.steampowered.com/app/220/",
+      "consultado_em": "2026-11-02",
+      "generos_fonte": [
+        "Ação"
+      ],
+      "metacritic": {
+        "nota": 96,
+        "url": "https://www.metacritic.com/game/pc/half-life-2?ftag=MCD-06-10aaa1f"
+      },
+      "capa_original_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/220/library_600x900_2x.jpg"
+    },
+    {
+      "steam_app_id": 550,
+      "titulo": "Left 4 Dead 2",
+      "plataforma": "PC",
+      "genero": "Tiro cooperativo",
+      "distribuidora": "Valve",
+      "descricao": "Forme uma equipe para atravessar campanhas de sobrevivência contra hordas de infectados.",
+      "capa_url": "/capas/steam-550.jpg",
+      "fonte_url": "https://store.steampowered.com/app/550/",
+      "consultado_em": "2026-11-02",
+      "generos_fonte": [
+        "Ação"
+      ],
+      "metacritic": {
+        "nota": 89,
+        "url": "https://www.metacritic.com/game/pc/left-4-dead-2?ftag=MCD-06-10aaa1f"
+      },
+      "capa_original_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/550/library_600x900_2x.jpg"
+    },
+    {
+      "steam_app_id": 548430,
+      "titulo": "Deep Rock Galactic",
+      "plataforma": "PC",
+      "genero": "Tiro cooperativo",
+      "distribuidora": "Coffee Stain Publishing",
+      "descricao": "Explore cavernas, extraia recursos e proteja sua equipe em missões cooperativas com anões espaciais.",
+      "capa_url": "/capas/steam-548430.jpg",
+      "fonte_url": "https://store.steampowered.com/app/548430/",
+      "consultado_em": "2026-11-02",
+      "generos_fonte": [
+        "Ação"
+      ],
+      "metacritic": {
+        "nota": 85,
+        "url": "https://www.metacritic.com/game/pc/deep-rock-galactic?ftag=MCD-06-10aaa1f"
+      },
+      "capa_original_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/548430/library_600x900_2x.jpg"
+    },
+    {
+      "steam_app_id": 381210,
+      "titulo": "Dead by Daylight",
+      "plataforma": "PC",
+      "genero": "Terror",
+      "distribuidora": "Behaviour Interactive Inc.",
+      "descricao": "Participe de partidas assimétricas de perseguição entre um assassino e um grupo de sobreviventes.",
+      "capa_url": "/capas/steam-381210.jpg",
+      "fonte_url": "https://store.steampowered.com/app/381210/",
+      "consultado_em": "2026-11-02",
+      "generos_fonte": [
+        "Ação"
+      ],
+      "metacritic": null,
+      "capa_original_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/381210/library_600x900_2x.jpg"
+    },
+    {
+      "steam_app_id": 322330,
+      "titulo": "Don't Starve Together",
+      "plataforma": "PC",
+      "genero": "Sobrevivência",
+      "distribuidora": "Klei Entertainment",
+      "descricao": "Reúna amigos para explorar um mundo hostil, obter recursos e enfrentar mudanças de estação.",
+      "capa_url": "/capas/steam-322330.jpg",
+      "fonte_url": "https://store.steampowered.com/app/322330/",
+      "consultado_em": "2026-11-02",
+      "generos_fonte": [
+        "Ação",
+        "Aventura",
+        "Indie",
+        "RPG",
+        "Simulação",
+        "Estratégia"
+      ],
+      "metacritic": {
+        "nota": 83,
+        "url": "https://www.metacritic.com/game/pc/dont-starve-together?ftag=MCD-06-10aaa1f"
+      },
+      "capa_original_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/322330/library_600x900_2x.jpg"
+    },
+    {
+      "steam_app_id": 219740,
+      "titulo": "Don't Starve",
+      "plataforma": "PC",
+      "genero": "Sobrevivência",
+      "distribuidora": "Klei Entertainment",
+      "descricao": "Explore um ambiente desconhecido, fabrique ferramentas e enfrente ameaças enquanto administra recursos limitados.",
+      "capa_url": "/capas/steam-219740.jpg",
+      "fonte_url": "https://store.steampowered.com/app/219740/",
+      "consultado_em": "2026-11-02",
+      "generos_fonte": [
+        "Aventura",
+        "Indie",
+        "Simulação"
+      ],
+      "metacritic": {
+        "nota": 79,
+        "url": "https://www.metacritic.com/game/pc/dont-starve?ftag=MCD-06-10aaa1f"
+      },
+      "capa_original_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/219740/library_600x900_2x.jpg"
+    },
+    {
+      "steam_app_id": 646570,
+      "titulo": "Slay the Spire",
+      "plataforma": "PC",
+      "genero": "Estratégia",
+      "distribuidora": "Mega Crit",
+      "descricao": "Monte um baralho de cartas e planeje suas ações em uma escalada com desafios e recompensas variados.",
+      "capa_url": "/capas/steam-646570.jpg",
+      "fonte_url": "https://store.steampowered.com/app/646570/",
+      "consultado_em": "2026-11-02",
+      "generos_fonte": [
+        "Indie",
+        "Estratégia"
+      ],
+      "metacritic": {
+        "nota": 89,
+        "url": "https://www.metacritic.com/game/pc/slay-the-spire?ftag=MCD-06-10aaa1f"
+      },
+      "capa_original_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/646570/library_600x900_2x.jpg"
+    },
+    {
+      "steam_app_id": 250900,
+      "titulo": "The Binding of Isaac: Rebirth",
+      "plataforma": "PC",
+      "genero": "Roguelike",
+      "distribuidora": "Nicalis, Inc.",
+      "descricao": "Explore salas, obtenha combinações de itens e enfrente inimigos em partidas de ação com geração procedural.",
+      "capa_url": "/capas/steam-250900.jpg",
+      "fonte_url": "https://store.steampowered.com/app/250900/",
+      "consultado_em": "2026-11-02",
+      "generos_fonte": [
+        "Ação"
+      ],
+      "metacritic": null,
+      "capa_original_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/250900/library_600x900_2x.jpg"
+    },
+    {
+      "steam_app_id": 960090,
+      "titulo": "Bloons TD 6",
+      "plataforma": "PC",
+      "genero": "Estratégia",
+      "distribuidora": "Ninja Kiwi",
+      "descricao": "Posicione torres, escolha melhorias e planeje defesas para impedir o avanço de ondas de inimigos.",
+      "capa_url": "/capas/steam-960090.jpg",
+      "fonte_url": "https://store.steampowered.com/app/960090/",
+      "consultado_em": "2026-11-02",
+      "generos_fonte": [
+        "Estratégia"
+      ],
+      "metacritic": null,
+      "capa_original_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/960090/library_600x900_2x.jpg"
+    },
+    {
+      "steam_app_id": 394360,
+      "titulo": "Hearts of Iron IV",
+      "plataforma": "PC",
+      "genero": "Estratégia",
+      "distribuidora": "Paradox Interactive",
+      "descricao": "Administre indústria, diplomacia e operações militares em uma simulação estratégica da Segunda Guerra Mundial.",
+      "capa_url": "/capas/steam-394360.jpg",
+      "fonte_url": "https://store.steampowered.com/app/394360/",
+      "consultado_em": "2026-11-02",
+      "generos_fonte": [
+        "Simulação",
+        "Estratégia"
+      ],
+      "metacritic": {
+        "nota": 83,
+        "url": "https://www.metacritic.com/game/pc/hearts-of-iron-iv?ftag=MCD-06-10aaa1f"
+      },
+      "capa_original_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/394360/library_600x900_2x.jpg"
+    },
+    {
+      "steam_app_id": 289070,
+      "titulo": "Sid Meier’s Civilization VI",
+      "plataforma": "PC",
+      "genero": "Estratégia",
+      "distribuidora": "2K / Aspyr (Mac) / Aspyr (Linux)",
+      "descricao": "Desenvolva uma civilização, construa cidades e dispute influência por diferentes caminhos de vitória.",
+      "capa_url": "/capas/steam-289070.jpg",
+      "fonte_url": "https://store.steampowered.com/app/289070/",
+      "consultado_em": "2026-11-02",
+      "generos_fonte": [
+        "Estratégia"
+      ],
+      "metacritic": {
+        "nota": 88,
+        "url": "https://www.metacritic.com/game/pc/sid-meiers-civilization-vi?ftag=MCD-06-10aaa1f"
+      },
+      "capa_original_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/289070/library_600x900_2x.jpg"
+    },
+    {
+      "steam_app_id": 281990,
+      "titulo": "Stellaris",
+      "plataforma": "PC",
+      "genero": "Estratégia",
+      "distribuidora": "Paradox Interactive",
+      "descricao": "Explore a galáxia, desenvolva um império espacial e estabeleça relações com outras civilizações.",
+      "capa_url": "/capas/steam-281990.jpg",
+      "fonte_url": "https://store.steampowered.com/app/281990/",
+      "consultado_em": "2026-11-02",
+      "generos_fonte": [
+        "Simulação",
+        "Estratégia"
+      ],
+      "metacritic": {
+        "nota": 78,
+        "url": "https://www.metacritic.com/game/pc/stellaris?ftag=MCD-06-10aaa1f"
+      },
+      "capa_original_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/281990/library_600x900_2x.jpg"
+    },
+    {
+      "steam_app_id": 294100,
+      "titulo": "RimWorld",
+      "plataforma": "PC",
+      "genero": "Simulação",
+      "distribuidora": "Ludeon Studios",
+      "descricao": "Gerencie uma colônia, organize recursos e acompanhe histórias emergentes de seus habitantes.",
+      "capa_url": "/capas/steam-294100.jpg",
+      "fonte_url": "https://store.steampowered.com/app/294100/",
+      "consultado_em": "2026-11-02",
+      "generos_fonte": [
+        "Indie",
+        "Simulação",
+        "Estratégia"
+      ],
+      "metacritic": {
+        "nota": 87,
+        "url": "https://www.metacritic.com/game/pc/rimworld?ftag=MCD-06-10aaa1f"
+      },
+      "capa_original_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/294100/library_600x900_2x.jpg"
+    },
+    {
+      "steam_app_id": 255710,
+      "titulo": "Cities: Skylines",
+      "plataforma": "PC",
+      "genero": "Simulação",
+      "distribuidora": "Paradox Interactive",
+      "descricao": "Planeje bairros, vias e serviços públicos para desenvolver e administrar uma cidade.",
+      "capa_url": "/capas/steam-255710.jpg",
+      "fonte_url": "https://store.steampowered.com/app/255710/",
+      "consultado_em": "2026-11-02",
+      "generos_fonte": [
+        "Simulação",
+        "Estratégia"
+      ],
+      "metacritic": {
+        "nota": 85,
+        "url": "https://www.metacritic.com/game/pc/cities-skylines?ftag=MCD-06-10aaa1f"
+      },
+      "capa_original_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/255710/library_600x900_2x.jpg"
+    },
+    {
+      "steam_app_id": 427520,
+      "titulo": "Factorio",
+      "plataforma": "PC",
+      "genero": "Automação",
+      "distribuidora": "Wube Software LTD.",
+      "descricao": "Organize linhas de produção, transporte recursos e automatize uma fábrica cada vez mais complexa.",
+      "capa_url": "/capas/steam-427520.jpg",
+      "fonte_url": "https://store.steampowered.com/app/427520/",
+      "consultado_em": "2026-11-02",
+      "generos_fonte": [
+        "Casual",
+        "Indie",
+        "Simulação",
+        "Estratégia"
+      ],
+      "metacritic": {
+        "nota": 90,
+        "url": "https://www.metacritic.com/game/pc/factorio?ftag=MCD-06-10aaa1f"
+      },
+      "capa_original_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/427520/library_600x900_2x.jpg"
+    },
+    {
+      "steam_app_id": 489830,
+      "titulo": "The Elder Scrolls V: Skyrim Special Edition",
+      "plataforma": "PC",
+      "genero": "RPG",
+      "distribuidora": "Bethesda Softworks",
+      "descricao": "Explore uma região de fantasia em uma edição que reúne a aventura principal e seus complementos.",
+      "capa_url": "/capas/steam-489830.jpg",
+      "fonte_url": "https://store.steampowered.com/app/489830/",
+      "consultado_em": "2026-11-02",
+      "generos_fonte": [
+        "RPG"
+      ],
+      "metacritic": {
+        "nota": 74,
+        "url": "https://www.metacritic.com/game/pc/the-elder-scrolls-v-skyrim-special-edition?ftag=MCD-06-10aaa1f"
+      },
+      "capa_original_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/489830/library_600x900_2x.jpg"
+    },
+    {
+      "steam_app_id": 377160,
+      "titulo": "Fallout 4",
+      "plataforma": "PC",
+      "genero": "RPG",
+      "distribuidora": "Bethesda Softworks",
+      "descricao": "Explore um mundo pós-apocalíptico, construa assentamentos e tome decisões sobre o futuro de suas comunidades.",
+      "capa_url": "/capas/steam-377160.jpg",
+      "fonte_url": "https://store.steampowered.com/app/377160/",
+      "consultado_em": "2026-11-02",
+      "generos_fonte": [
+        "RPG"
+      ],
+      "metacritic": {
+        "nota": 84,
+        "url": "https://www.metacritic.com/game/pc/fallout-4?ftag=MCD-06-10aaa1f"
+      },
+      "capa_original_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/377160/library_600x900_2x.jpg"
+    },
+    {
+      "steam_app_id": 22380,
+      "titulo": "Fallout: New Vegas",
+      "plataforma": "PC",
+      "genero": "RPG",
+      "distribuidora": "Bethesda Softworks",
+      "descricao": "Percorra o deserto de Mojave e negocie com facções em uma aventura de escolhas e consequências.",
+      "capa_url": "/capas/steam-22380.jpg",
+      "fonte_url": "https://store.steampowered.com/app/22380/",
+      "consultado_em": "2026-11-02",
+      "generos_fonte": [
+        "Ação",
+        "RPG"
+      ],
+      "metacritic": {
+        "nota": 84,
+        "url": "https://www.metacritic.com/game/pc/fallout-new-vegas?ftag=MCD-06-10aaa1f"
+      },
+      "capa_original_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/22380/library_600x900_2x.jpg"
+    },
+    {
+      "steam_app_id": 814380,
+      "titulo": "Sekiro: Shadows Die Twice - GOTY Edition",
+      "plataforma": "PC",
+      "genero": "Ação",
+      "distribuidora": "Activision (Excluding Japan and Asia) / FromSoftware, Inc. (Japan) / 方块游戏 (Asia)",
+      "descricao": "Domine defesa, mobilidade e confrontos precisos em uma aventura ambientada em um Japão de fantasia.",
+      "capa_url": "/capas/steam-814380.jpg",
+      "fonte_url": "https://store.steampowered.com/app/814380/",
+      "consultado_em": "2026-11-02",
+      "generos_fonte": [
+        "Ação",
+        "Aventura"
+      ],
+      "metacritic": {
+        "nota": 88,
+        "url": "https://www.metacritic.com/game/pc/sekiro-shadows-die-twice?ftag=MCD-06-10aaa1f"
+      },
+      "capa_original_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/814380/library_600x900_2x.jpg"
+    },
+    {
+      "steam_app_id": 374320,
+      "titulo": "DARK SOULS III",
+      "plataforma": "PC",
+      "genero": "RPG",
+      "distribuidora": "FromSoftware, Inc. / Bandai Namco Entertainment",
+      "descricao": "Explore cenários de fantasia sombria, combine equipamentos e enfrente inimigos em combates exigentes.",
+      "capa_url": "/capas/steam-374320.jpg",
+      "fonte_url": "https://store.steampowered.com/app/374320/",
+      "consultado_em": "2026-11-02",
+      "generos_fonte": [
+        "Ação"
+      ],
+      "metacritic": {
+        "nota": 89,
+        "url": "https://www.metacritic.com/game/pc/dark-souls-iii?ftag=MCD-06-10aaa1f"
+      },
+      "capa_original_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/374320/library_600x900_2x.jpg"
+    },
+    {
+      "steam_app_id": 2050650,
+      "titulo": "Resident Evil 4",
+      "plataforma": "PC",
+      "genero": "Terror",
+      "distribuidora": "CAPCOM Co., Ltd.",
+      "descricao": "Investigue uma região isolada e enfrente ameaças em uma aventura de ação e sobrevivência.",
+      "capa_url": "/capas/steam-2050650.jpg",
+      "fonte_url": "https://store.steampowered.com/app/2050650/",
+      "consultado_em": "2026-11-02",
+      "generos_fonte": [
+        "Ação",
+        "Aventura"
+      ],
+      "metacritic": {
+        "nota": 91,
+        "url": "https://www.metacritic.com/game/pc/resident-evil-4?ftag=MCD-06-10aaa1f"
+      },
+      "capa_original_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/2050650/library_600x900_2x.jpg"
+    },
+    {
+      "steam_app_id": 883710,
+      "titulo": "Resident Evil 2",
+      "plataforma": "PC",
+      "genero": "Terror",
+      "distribuidora": "CAPCOM Co., Ltd.",
+      "descricao": "Explore uma cidade em crise e administre munição e recursos para enfrentar ameaças em ambientes fechados.",
+      "capa_url": "/capas/steam-883710.jpg",
+      "fonte_url": "https://store.steampowered.com/app/883710/",
+      "consultado_em": "2026-11-02",
+      "generos_fonte": [
+        "Ação"
+      ],
+      "metacritic": {
+        "nota": 89,
+        "url": "https://www.metacritic.com/game/pc/resident-evil-2?ftag=MCD-06-10aaa1f"
+      },
+      "capa_original_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/883710/library_600x900_2x.jpg"
+    },
+    {
+      "steam_app_id": 1196590,
+      "titulo": "Resident Evil Village",
+      "plataforma": "PC",
+      "genero": "Terror",
+      "distribuidora": "CAPCOM Co., Ltd.",
+      "descricao": "Explore uma aldeia misteriosa e enfrente criaturas em uma aventura de sobrevivência em primeira pessoa.",
+      "capa_url": "/capas/steam-1196590.jpg",
+      "fonte_url": "https://store.steampowered.com/app/1196590/",
+      "consultado_em": "2026-11-02",
+      "generos_fonte": [
+        "Ação"
+      ],
+      "metacritic": {
+        "nota": 83,
+        "url": "https://www.metacritic.com/game/pc/resident-evil-village?ftag=MCD-06-10aaa1f"
+      },
+      "capa_original_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1196590/library_600x900_2x.jpg"
+    },
+    {
+      "steam_app_id": 391540,
+      "titulo": "Undertale",
+      "plataforma": "PC",
+      "genero": "RPG",
+      "distribuidora": "tobyfox",
+      "descricao": "Explore um mundo subterrâneo e descubra como suas decisões transformam os encontros e a história.",
+      "capa_url": "/capas/steam-391540.jpg",
+      "fonte_url": "https://store.steampowered.com/app/391540/",
+      "consultado_em": "2026-11-02",
+      "generos_fonte": [
+        "Indie",
+        "RPG"
+      ],
+      "metacritic": {
+        "nota": 92,
+        "url": "https://www.metacritic.com/game/pc/undertale?ftag=MCD-06-10aaa1f"
+      },
+      "capa_original_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/391540/library_600x900_2x.jpg"
+    },
+    {
+      "steam_app_id": 8870,
+      "titulo": "BioShock Infinite",
+      "plataforma": "PC",
+      "genero": "Tiro",
+      "distribuidora": "2K",
+      "descricao": "Explore uma cidade suspensa e enfrente conflitos em uma aventura de ação com elementos de ficção científica.",
+      "capa_url": "/capas/steam-8870.jpg",
+      "fonte_url": "https://store.steampowered.com/app/8870/",
+      "consultado_em": "2026-11-02",
+      "generos_fonte": [
+        "Ação"
+      ],
+      "metacritic": {
+        "nota": 94,
+        "url": "https://www.metacritic.com/game/pc/bioshock-infinite?ftag=MCD-06-10aaa1f"
+      },
+      "capa_original_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/8870/library_600x900_2x.jpg"
+    },
+    {
+      "steam_app_id": 203160,
+      "titulo": "Tomb Raider Game of the Year",
+      "plataforma": "PC",
+      "genero": "Ação e aventura",
+      "distribuidora": "Crystal Dynamics / Feral Interactive (Mac)",
+      "descricao": "Acompanhe uma exploradora em uma ilha perigosa, combinando descoberta, sobrevivência e combate.",
+      "capa_url": "/capas/steam-203160.jpg",
+      "fonte_url": "https://store.steampowered.com/app/203160/",
+      "consultado_em": "2026-11-02",
+      "generos_fonte": [
+        "Ação",
+        "Aventura"
+      ],
+      "metacritic": {
+        "nota": 86,
+        "url": "https://www.metacritic.com/game/pc/tomb-raider?ftag=MCD-06-10aaa1f"
+      },
+      "capa_original_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/203160/library_600x900_2x.jpg"
+    },
+    {
+      "steam_app_id": 391220,
+      "titulo": "Rise of the Tomb Raider",
+      "plataforma": "PC",
+      "genero": "Ação e aventura",
+      "distribuidora": "Crystal Dynamics / Feral Interactive (Mac) / Feral Interactive (Linux)",
+      "descricao": "Explore ruínas e ambientes gelados em busca de segredos, com desafios de exploração e sobrevivência.",
+      "capa_url": "/capas/steam-391220.jpg",
+      "fonte_url": "https://store.steampowered.com/app/391220/",
+      "consultado_em": "2026-11-02",
+      "generos_fonte": [
+        "Ação",
+        "Aventura"
+      ],
+      "metacritic": {
+        "nota": 86,
+        "url": "https://www.metacritic.com/game/pc/rise-of-the-tomb-raider?ftag=MCD-06-10aaa1f"
+      },
+      "capa_original_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/391220/library_600x900_2x.jpg"
+    },
+    {
+      "steam_app_id": 750920,
+      "titulo": "Shadow of the Tomb Raider: Definitive Edition",
+      "plataforma": "PC",
+      "genero": "Ação e aventura",
+      "distribuidora": "Crystal Dynamics / Feral Interactive (Mac) / Feral interactive (Linux)",
+      "descricao": "Investigue ruínas e resolva desafios de exploração em uma aventura com uma arqueóloga em regiões tropicais.",
+      "capa_url": "/capas/steam-750920.jpg",
+      "fonte_url": "https://store.steampowered.com/app/750920/",
+      "consultado_em": "2026-11-02",
+      "generos_fonte": [
+        "Ação",
+        "Aventura"
+      ],
+      "metacritic": {
+        "nota": 77,
+        "url": "https://www.metacritic.com/game/pc/shadow-of-the-tomb-raider?ftag=MCD-06-10aaa1f"
+      },
+      "capa_original_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/750920/library_600x900_2x.jpg"
+    },
+    {
+      "steam_app_id": 311690,
+      "titulo": "Enter the Gungeon",
+      "plataforma": "PC",
+      "genero": "Roguelike",
+      "distribuidora": "Devolver Digital",
+      "descricao": "Explore masmorras, desvie de projéteis e descubra equipamentos em partidas de ação com geração procedural.",
+      "capa_url": "/capas/steam-311690.jpg",
+      "fonte_url": "https://store.steampowered.com/app/311690/",
+      "consultado_em": "2026-11-02",
+      "generos_fonte": [
+        "Ação",
+        "Aventura",
+        "Indie"
+      ],
+      "metacritic": {
+        "nota": 84,
+        "url": "https://www.metacritic.com/game/pc/enter-the-gungeon?ftag=MCD-06-10aaa1f"
+      },
+      "capa_original_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/311690/library_600x900_2x.jpg"
+    },
+    {
+      "steam_app_id": 359550,
+      "titulo": "Tom Clancy's Rainbow Six Siege",
+      "plataforma": "PC",
+      "genero": "Tiro tático",
+      "distribuidora": "Ubisoft",
+      "descricao": "Planeje operações em equipe usando habilidades de agentes, equipamentos e interação com ambientes destrutíveis.",
+      "capa_url": "/capas/steam-359550.jpg",
+      "fonte_url": "https://store.steampowered.com/app/359550/",
+      "consultado_em": "2026-11-02",
+      "generos_fonte": [
+        "Ação",
+        "Gratuitos para Jogar"
+      ],
+      "metacritic": null,
+      "capa_original_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/359550/library_600x900_2x.jpg"
+    },
+    {
+      "steam_app_id": 1794680,
+      "titulo": "Vampire Survivors",
+      "plataforma": "PC",
+      "genero": "Roguelike",
+      "distribuidora": "poncle",
+      "descricao": "Combine armas e melhorias para sobreviver a ondas de criaturas em partidas de ação progressivas.",
+      "capa_url": "/capas/steam-1794680.jpg",
+      "fonte_url": "https://store.steampowered.com/app/1794680/",
+      "consultado_em": "2026-11-02",
+      "generos_fonte": [
+        "Ação",
+        "Casual",
+        "Indie",
+        "RPG"
+      ],
+      "metacritic": {
+        "nota": 86,
+        "url": "https://www.metacritic.com/game/pc/vampire-survivors?ftag=MCD-06-10aaa1f"
+      },
+      "capa_original_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1794680/library_600x900_2x.jpg"
+    },
+    {
+      "steam_app_id": 1151640,
+      "titulo": "Horizon Zero Dawn Complete Edition",
+      "plataforma": "PC",
+      "genero": "Ação e aventura",
+      "distribuidora": "PlayStation Publishing LLC",
+      "descricao": "Explore um mundo dominado por máquinas e descubra segredos de uma civilização antiga.",
+      "capa_url": "/capas/steam-1151640.jpg",
+      "fonte_url": "https://store.steampowered.com/app/1151640/",
+      "consultado_em": "2026-11-02",
+      "generos_fonte": [
+        "Ação",
+        "Aventura",
+        "RPG"
+      ],
+      "metacritic": null,
+      "capa_original_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1151640/library_600x900_2x.jpg"
+    },
+    {
+      "steam_app_id": 1593500,
+      "titulo": "God of War",
+      "plataforma": "PC",
+      "genero": "Ação e aventura",
+      "distribuidora": "PlayStation Publishing LLC",
+      "descricao": "Acompanhe uma jornada entre pai e filho por cenários inspirados na mitologia nórdica.",
+      "capa_url": "/capas/steam-1593500.jpg",
+      "fonte_url": "https://store.steampowered.com/app/1593500/",
+      "consultado_em": "2026-11-02",
+      "generos_fonte": [
+        "Ação",
+        "Aventura",
+        "RPG"
+      ],
+      "metacritic": {
+        "nota": 93,
+        "url": "https://www.metacritic.com/game/pc/god-of-war?ftag=MCD-06-10aaa1f"
+      },
+      "capa_original_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1593500/library_600x900_2x.jpg"
+    },
+    {
+      "steam_app_id": 1817070,
+      "titulo": "Marvel’s Spider-Man Remastered",
+      "plataforma": "PC",
+      "genero": "Ação e aventura",
+      "distribuidora": "PlayStation Publishing LLC",
+      "descricao": "Explore uma cidade usando acrobacias e teias em uma aventura de herói com combate e missões.",
+      "capa_url": "/capas/steam-1817070.jpg",
+      "fonte_url": "https://store.steampowered.com/app/1817070/",
+      "consultado_em": "2026-11-02",
+      "generos_fonte": [
+        "Ação",
+        "Aventura",
+        "Casual"
+      ],
+      "metacritic": null,
+      "capa_original_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1817070/library_600x900_2x.jpg"
+    },
+    {
+      "steam_app_id": 1057090,
+      "titulo": "Ori and the Will of the Wisps",
+      "plataforma": "PC",
+      "genero": "Metroidvania",
+      "distribuidora": "Xbox Game Studios",
+      "descricao": "Explore ambientes interligados e supere desafios de movimento em uma aventura de fantasia.",
+      "capa_url": "/capas/steam-1057090.jpg",
+      "fonte_url": "https://store.steampowered.com/app/1057090/",
+      "consultado_em": "2026-11-02",
+      "generos_fonte": [
+        "Ação"
+      ],
+      "metacritic": {
+        "nota": 88,
+        "url": "https://www.metacritic.com/game/pc/ori-and-the-will-of-the-wisps?ftag=MCD-06-10aaa1f"
+      },
+      "capa_original_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1057090/library_600x900_2x.jpg"
+    },
+    {
+      "steam_app_id": 261570,
+      "titulo": "Ori and the Blind Forest",
+      "plataforma": "PC",
+      "genero": "Metroidvania",
+      "distribuidora": "Xbox Game Studios",
+      "descricao": "Atravesse uma floresta ameaçada e desenvolva habilidades em uma aventura de plataformas e exploração.",
+      "capa_url": "/capas/steam-261570.jpg",
+      "fonte_url": "https://store.steampowered.com/app/261570/",
+      "consultado_em": "2026-11-02",
+      "generos_fonte": [
+        "Ação"
+      ],
+      "metacritic": {
+        "nota": 88,
+        "url": "https://www.metacritic.com/game/pc/ori-and-the-blind-forest?ftag=MCD-06-10aaa1f"
+      },
+      "capa_original_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/261570/library_600x900_2x.jpg"
+    }
+  ],
+  "falhas": [],
+  "observacao": "Metadados de jogos para PC verificados na Steam. Gênero principal curado e descrições próprias. Preços e estoques do importador são demonstrativos."
+}

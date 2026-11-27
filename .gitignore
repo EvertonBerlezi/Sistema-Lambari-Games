@@ -36,3 +36,8 @@ Thumbs.db
 *.njsproj
 *.sln
 *.sw?
+# Banco local do catálogo
+backend/data/
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal

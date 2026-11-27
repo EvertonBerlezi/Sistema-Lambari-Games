@@ -1,11 +1,18 @@
 {
-  "name": "backend",
-  "version": "1.0.0",
+  "name": "lambari-games-api",
+  "version": "2.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "nodemon src/server.js"
+    "test": "node --test --test-concurrency=1",
+    "dev": "nodemon src/server.js",
+    "start": "node src/server.js",
+    "terminal": "node src/cli/index.js",
+    "demo": "node src/database/demo.js",
+    "db:migrate": "node scripts/migrate.js",
+    "db:admin": "node scripts/admin.js",
+    "db:import-sqlite": "node scripts/import-sqlite.js",
+    "db:catalogo": "node scripts/catalogo.js"
   },
   "keywords": [],
   "author": "",
@@ -13,9 +20,21 @@
   "type": "commonjs",
   "dependencies": {
     "cors": "^2.8.6",
-    "express": "^5.2.1"
+    "express": "^5.2.1",
+    "pg": "^8.16.0",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.37.7",
+    "dotenv": "^16.6.1"
   },
   "devDependencies": {
     "nodemon": "^3.1.14"
+  },
+  "engines": {
+    "node": ">=22.13.0"
+  },
+  "overrides": {
+    "sequelize": {
+      "uuid": "^11.1.1"
+    }
   }
 }
